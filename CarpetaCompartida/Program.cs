@@ -142,7 +142,7 @@ class Program
 
             // Guardamos IV + datos encriptados en base64
             byte[] resultado = new byte[iv.Length + encriptado.Length];
-            Buffer.BlockCopy(iv,KO 0, resultado, 0, iv.Length);
+            Buffer.BlockCopy(iv, 0, resultado, 0, iv.Length);
             Buffer.BlockCopy(encriptado, 0, resultado, iv.Length, encriptado.Length);
 
             File.WriteAllText("UserPassword.json", "ENC:" + Convert.ToBase64String(resultado));
@@ -183,10 +183,4 @@ class Program
             File.WriteAllText("UserPassword.json", contenido);
         }
     }
-
-
-
-
-
-
 }
