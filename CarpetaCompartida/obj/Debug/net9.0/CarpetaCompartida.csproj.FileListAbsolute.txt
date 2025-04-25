@@ -1,0 +1,14 @@
+C:\Users\Ángel\Desktop\Nueva carpeta\CarpetaCompartida\bin\Debug\net9.0\CarpetaCompartida.exe
+C:\Users\Ángel\Desktop\Nueva carpeta\CarpetaCompartida\bin\Debug\net9.0\CarpetaCompartida.deps.json
+C:\Users\Ángel\Desktop\Nueva carpeta\CarpetaCompartida\bin\Debug\net9.0\CarpetaCompartida.runtimeconfig.json
+C:\Users\Ángel\Desktop\Nueva carpeta\CarpetaCompartida\bin\Debug\net9.0\CarpetaCompartida.dll
+C:\Users\Ángel\Desktop\Nueva carpeta\CarpetaCompartida\bin\Debug\net9.0\CarpetaCompartida.pdb
+C:\Users\Ángel\Desktop\Nueva carpeta\CarpetaCompartida\obj\Debug\net9.0\CarpetaCompartida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ángel\Desktop\Nueva carpeta\CarpetaCompartida\obj\Debug\net9.0\CarpetaCompartida.AssemblyInfoInputs.cache
+C:\Users\Ángel\Desktop\Nueva carpeta\CarpetaCompartida\obj\Debug\net9.0\CarpetaCompartida.AssemblyInfo.cs
+C:\Users\Ángel\Desktop\Nueva carpeta\CarpetaCompartida\obj\Debug\net9.0\CarpetaCompartida.csproj.CoreCompileInputs.cache
+C:\Users\Ángel\Desktop\Nueva carpeta\CarpetaCompartida\obj\Debug\net9.0\CarpetaCompartida.dll
+C:\Users\Ángel\Desktop\Nueva carpeta\CarpetaCompartida\obj\Debug\net9.0\refint\CarpetaCompartida.dll
+C:\Users\Ángel\Desktop\Nueva carpeta\CarpetaCompartida\obj\Debug\net9.0\CarpetaCompartida.pdb
+C:\Users\Ángel\Desktop\Nueva carpeta\CarpetaCompartida\obj\Debug\net9.0\CarpetaCompartida.genruntimeconfig.cache
+C:\Users\Ángel\Desktop\Nueva carpeta\CarpetaCompartida\obj\Debug\net9.0\ref\CarpetaCompartida.dll
